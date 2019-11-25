@@ -1,0 +1,16 @@
+{
+   "results":{
+      "headers":[
+         "UTIL_DEVICE_ID",
+         "MAC_ID",
+         "BILLING_CYCLE_NUM"
+      ],
+      "rows":[
+         [
+            "261011492 D 372974100 0001 S",
+            "DEADBEEF000003FD",
+            "0"
+         ]
+      ]
+   }
+}
