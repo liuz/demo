@@ -1,8 +1,10 @@
 package com.example.demo.rest;
 import static org.junit.Assert.assertEquals;
 import com.example.demo.domain.PayloadBean;
+import com.example.demo.domain.inbound.InBillCycleExceptions;
 import com.example.demo.domain.inbound.InResults;
 import com.example.demo.domain.inbound.Inpayload;
+import com.example.demo.domain.outbound.OutBillCycleExceptions;
 import com.example.demo.domain.outbound.OutResults;
 import com.example.demo.domain.outbound.Outpayload;
 import com.example.demo.service.BillingService;
@@ -32,12 +34,14 @@ public class BillingCycleControllerTest<Inbound> {
     private BillingService billingService;
     List<PayloadBean> rows = new ArrayList<>();
     OutResults outResults = new OutResults(rows);
-    Outpayload outpayload = new Outpayload(outResults);
+    OutBillCycleExceptions outBillCycleExceptions = new OutBillCycleExceptions();
+    Outpayload outpayload = new Outpayload(outBillCycleExceptions);
 
     @Test
     public void test_processPayload() throws Exception {
         InResults inResults = new InResults();
-        Inpayload inpayload = new Inpayload(inResults);
+        InBillCycleExceptions inBillCycleExceptions = new InBillCycleExceptions();
+        Inpayload inpayload = new Inpayload(inBillCycleExceptions);
         Mockito.when(billingService.processPayload(inpayload)).thenReturn(outpayload);
 
         RequestBuilder requestBuilder = MockMvcRequestBuilders.post("/billingcycle/payload")

@@ -2,19 +2,19 @@ package com.example.demo.domain.inbound;
 
 public class Inpayload {
 
-    public InResults results;
+    public InBillCycleExceptions BillCycleExceptions;
 
-    public Inpayload(){}
+    public Inpayload () {}
 
-    public Inpayload(InResults results) {
-        this.results = results;
+    public Inpayload(InBillCycleExceptions billCycleExceptions) {
+        BillCycleExceptions = billCycleExceptions;
     }
 
-    public InResults getInResults() {
-        return results;
+    public InBillCycleExceptions getBillCycleExceptions() {
+        return BillCycleExceptions;
     }
 
-    public void setInResults(InResults results) {
-        this.results = results;
+    public void setBillCycleExceptions(InBillCycleExceptions billCycleExceptions) {
+        BillCycleExceptions = billCycleExceptions;
     }
 }

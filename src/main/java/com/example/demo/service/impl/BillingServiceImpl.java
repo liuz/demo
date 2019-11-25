@@ -3,6 +3,7 @@ package com.example.demo.service.impl;
 import com.example.demo.domain.PayloadBean;
 import com.example.demo.domain.inbound.Inpayload;
 import com.example.demo.domain.inbound.InResults;
+import com.example.demo.domain.outbound.OutBillCycleExceptions;
 import com.example.demo.domain.outbound.OutResults;
 import com.example.demo.domain.outbound.Outpayload;
 import com.example.demo.service.BillingService;
@@ -16,12 +17,12 @@ public class BillingServiceImpl implements BillingService {
 
     @Override
     public Outpayload processPayload(Inpayload inpayload) {
-        InResults inResults = inpayload.getInResults();
+        InResults inResults = inpayload.getBillCycleExceptions().getInResults();
         List<String> headers = inResults.getHeaders();
         List<List<String>> rows = inResults.getRows();
-        Outpayload outpayload = new Outpayload();
-        outpayload.setResult(handleFormat(headers, rows));
-        return outpayload;
+        OutBillCycleExceptions billCycleExceptions = new OutBillCycleExceptions();
+        billCycleExceptions.setResult(handleFormat(headers, rows));
+        return new Outpayload(billCycleExceptions);
     }
 
     private OutResults handleFormat(List<String> headers, List<List<String>> rows) {

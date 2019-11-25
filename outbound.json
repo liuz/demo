@@ -1,0 +1,2188 @@
+{
+    "BillCycleExceptions": {
+        "results": {
+            "rows": [
+                {
+                    "MAC_ID": "DEADBEEF000003FD",
+                    "UTIL_DEVICE_ID": "261011492 D 372974100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000411",
+                    "UTIL_DEVICE_ID": "260630921 D 723452100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000439",
+                    "UTIL_DEVICE_ID": "261164099 D 792755100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010001",
+                    "UTIL_DEVICE_ID": "260621875 D 43557102 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103E9",
+                    "UTIL_DEVICE_ID": "260650132 D 489321821 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010411",
+                    "UTIL_DEVICE_ID": "260624343 D 748354200 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010425",
+                    "UTIL_DEVICE_ID": "261016792 D 690911100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010439",
+                    "UTIL_DEVICE_ID": "260618142 D 154663200 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203E9",
+                    "UTIL_DEVICE_ID": "260282181 D 854614000 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203FD",
+                    "UTIL_DEVICE_ID": "261017397 D 594018100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020411",
+                    "UTIL_DEVICE_ID": "261014536 D 759352100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020425",
+                    "UTIL_DEVICE_ID": "260268361 D 149755100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020439",
+                    "UTIL_DEVICE_ID": "261168436 D 668989100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303E9",
+                    "UTIL_DEVICE_ID": "261011516 D 337360902 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303FD",
+                    "UTIL_DEVICE_ID": "262039618 D 718452100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030411",
+                    "UTIL_DEVICE_ID": "261014547 D 753352100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030425",
+                    "UTIL_DEVICE_ID": "261017426 D 816352100 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030439",
+                    "UTIL_DEVICE_ID": "260624691 D 865483000 0001 S",
+                    "BILLING_CYCLE_NUM": "0"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000010",
+                    "UTIL_DEVICE_ID": "800000010 D 561272101 0001 I",
+                    "BILLING_CYCLE_NUM": "06"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000002",
+                    "UTIL_DEVICE_ID": "260650874 D 463483100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003FE",
+                    "UTIL_DEVICE_ID": "261170348 D 440056100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000412",
+                    "UTIL_DEVICE_ID": "260620286 D 421080100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000426",
+                    "UTIL_DEVICE_ID": "261164563 D 39808000 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000043A",
+                    "UTIL_DEVICE_ID": "260624919 D 293443200 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010002",
+                    "UTIL_DEVICE_ID": "260618130 D 45080100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103EA",
+                    "UTIL_DEVICE_ID": "260619721 D 151994200 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103FE",
+                    "UTIL_DEVICE_ID": "261020129 D 154501308 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010412",
+                    "UTIL_DEVICE_ID": "261013264 D 779352100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010426",
+                    "UTIL_DEVICE_ID": "261166429 D 696597100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001043A",
+                    "UTIL_DEVICE_ID": "261166497 D 609597100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203EA",
+                    "UTIL_DEVICE_ID": "260279927 D 551442242 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203FE",
+                    "UTIL_DEVICE_ID": "260630915 D 814452100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020412",
+                    "UTIL_DEVICE_ID": "261014511 D 768352100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020426",
+                    "UTIL_DEVICE_ID": "260632707 D 710452100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002043A",
+                    "UTIL_DEVICE_ID": "261166533 D 676576000 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303EA",
+                    "UTIL_DEVICE_ID": "260618669 D 103213200 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303FE",
+                    "UTIL_DEVICE_ID": "260624346 D 57493200 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030412",
+                    "UTIL_DEVICE_ID": "260651636 D 830352100 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030426",
+                    "UTIL_DEVICE_ID": "261012632 D 353265000 0001 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003043A",
+                    "UTIL_DEVICE_ID": "261163692 D 8700100 0002 S",
+                    "BILLING_CYCLE_NUM": "1"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003042F",
+                    "UTIL_DEVICE_ID": "261166499 D 693597100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001000B",
+                    "UTIL_DEVICE_ID": "260619170 D 21134260 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020407",
+                    "UTIL_DEVICE_ID": "260630832 D 684452100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002041B",
+                    "UTIL_DEVICE_ID": "261011719 D 804452100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002042F",
+                    "UTIL_DEVICE_ID": "261013292 D 750352100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020443",
+                    "UTIL_DEVICE_ID": "261017330 D 825352100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F3",
+                    "UTIL_DEVICE_ID": "260632634 D 741452100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030407",
+                    "UTIL_DEVICE_ID": "260630924 D 697452100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003041B",
+                    "UTIL_DEVICE_ID": "260630855 D 695452100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F3",
+                    "UTIL_DEVICE_ID": "260625797 D 130911100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010407",
+                    "UTIL_DEVICE_ID": "260633697 D 730452100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001041B",
+                    "UTIL_DEVICE_ID": "260618087 D 442080100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001042F",
+                    "UTIL_DEVICE_ID": "261013497 D 808452100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010443",
+                    "UTIL_DEVICE_ID": "261011532 D 629974100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F3",
+                    "UTIL_DEVICE_ID": "261017420 D 599018100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000000B",
+                    "UTIL_DEVICE_ID": "261445440 D 151583100 0003 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F3",
+                    "UTIL_DEVICE_ID": "261163406 D 406056100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000407",
+                    "UTIL_DEVICE_ID": "260625743 D 225911100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000041B",
+                    "UTIL_DEVICE_ID": "260620289 D 415080100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000042F",
+                    "UTIL_DEVICE_ID": "261169080 D 705054218 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000443",
+                    "UTIL_DEVICE_ID": "260282156 D 867614000 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030443",
+                    "UTIL_DEVICE_ID": "261016513 D 25700100 0001 S",
+                    "BILLING_CYCLE_NUM": "10"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030430",
+                    "UTIL_DEVICE_ID": "260625329 D 486080100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001000C",
+                    "UTIL_DEVICE_ID": "260623616 D 30570968 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020408",
+                    "UTIL_DEVICE_ID": "261012781 D 52714000 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002041C",
+                    "UTIL_DEVICE_ID": "261017326 D 811352100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020430",
+                    "UTIL_DEVICE_ID": "261014549 D 756352100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020444",
+                    "UTIL_DEVICE_ID": "260617688 D 831352100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F4",
+                    "UTIL_DEVICE_ID": "260630885 D 716452100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030408",
+                    "UTIL_DEVICE_ID": "260618151 D 156663200 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003041C",
+                    "UTIL_DEVICE_ID": "260618145 D 151663200 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F4",
+                    "UTIL_DEVICE_ID": "261017400 D 546600100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010408",
+                    "UTIL_DEVICE_ID": "260624961 D 108080100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001041C",
+                    "UTIL_DEVICE_ID": "261170362 D 447056100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010430",
+                    "UTIL_DEVICE_ID": "261013496 D 803452100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010444",
+                    "UTIL_DEVICE_ID": "260630835 D 683452100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F4",
+                    "UTIL_DEVICE_ID": "260281313 D 829614000 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000000C",
+                    "UTIL_DEVICE_ID": "261158787 D 52657000 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F4",
+                    "UTIL_DEVICE_ID": "261011743 D 764452100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000408",
+                    "UTIL_DEVICE_ID": "261013511 D 773452100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000041C",
+                    "UTIL_DEVICE_ID": "261014561 D 742352100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000430",
+                    "UTIL_DEVICE_ID": "261166738 D 705597100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000444",
+                    "UTIL_DEVICE_ID": "260630888 D 812452100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030444",
+                    "UTIL_DEVICE_ID": "260623970 D 837911100 0001 S",
+                    "BILLING_CYCLE_NUM": "11"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030431",
+                    "UTIL_DEVICE_ID": "261017428 D 817352100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001000D",
+                    "UTIL_DEVICE_ID": "260650706 D 532314515 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020409",
+                    "UTIL_DEVICE_ID": "260282157 D 863614000 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002041D",
+                    "UTIL_DEVICE_ID": "261013484 D 753452100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020431",
+                    "UTIL_DEVICE_ID": "260618152 D 158663200 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020445",
+                    "UTIL_DEVICE_ID": "261017350 D 837352100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F5",
+                    "UTIL_DEVICE_ID": "260632663 D 711452100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030409",
+                    "UTIL_DEVICE_ID": "260650587 D 703452100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003041D",
+                    "UTIL_DEVICE_ID": "260630925 D 698452100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F5",
+                    "UTIL_DEVICE_ID": "260619710 D 152994200 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010409",
+                    "UTIL_DEVICE_ID": "260624873 D 148080100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001041D",
+                    "UTIL_DEVICE_ID": "261170301 D 466056100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010431",
+                    "UTIL_DEVICE_ID": "261013495 D 807452100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010445",
+                    "UTIL_DEVICE_ID": "260625731 D 170483000 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F5",
+                    "UTIL_DEVICE_ID": "261014024 D 650054100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000000D",
+                    "UTIL_DEVICE_ID": "X258581132 D 175424841 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F5",
+                    "UTIL_DEVICE_ID": "261011744 D 765452100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000409",
+                    "UTIL_DEVICE_ID": "261163407 D 407056100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000041D",
+                    "UTIL_DEVICE_ID": "260624898 D 121080100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000431",
+                    "UTIL_DEVICE_ID": "261166739 D 707597100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000445",
+                    "UTIL_DEVICE_ID": "260633714 D 498452100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030445",
+                    "UTIL_DEVICE_ID": "260618089 D 439080100 0001 S",
+                    "BILLING_CYCLE_NUM": "12"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003041E",
+                    "UTIL_DEVICE_ID": "260624370 D 54493200 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001000E",
+                    "UTIL_DEVICE_ID": "260630920 D 724452100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030446",
+                    "UTIL_DEVICE_ID": "261171230 D 230006000 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002040A",
+                    "UTIL_DEVICE_ID": "260282134 D 830614000 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002041E",
+                    "UTIL_DEVICE_ID": "260633698 D 704452100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020432",
+                    "UTIL_DEVICE_ID": "260630886 D 715452100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020446",
+                    "UTIL_DEVICE_ID": "261017375 D 841352100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F6",
+                    "UTIL_DEVICE_ID": "261014546 D 754352100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003040A",
+                    "UTIL_DEVICE_ID": "260650879 D 749483000 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F6",
+                    "UTIL_DEVICE_ID": "260271403 D 153755100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001040A",
+                    "UTIL_DEVICE_ID": "261018226 D 52253100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001041E",
+                    "UTIL_DEVICE_ID": "260625328 D 475080100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010432",
+                    "UTIL_DEVICE_ID": "261016575 D 66700100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010446",
+                    "UTIL_DEVICE_ID": "260282100 D 831614000 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F6",
+                    "UTIL_DEVICE_ID": "260630914 D 810452100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000000E",
+                    "UTIL_DEVICE_ID": "258512815 D 484808000 0002 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F6",
+                    "UTIL_DEVICE_ID": "261170303 D 464056100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000040A",
+                    "UTIL_DEVICE_ID": "261170290 D 416056100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000041E",
+                    "UTIL_DEVICE_ID": "260617578 D 133080100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000432",
+                    "UTIL_DEVICE_ID": "261166737 D 708597100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000446",
+                    "UTIL_DEVICE_ID": "259477946 D 132755100 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030432",
+                    "UTIL_DEVICE_ID": "260624367 D 727354200 0001 S",
+                    "BILLING_CYCLE_NUM": "13"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003041F",
+                    "UTIL_DEVICE_ID": "261014544 D 794352100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030433",
+                    "UTIL_DEVICE_ID": "261166431 D 697597100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030447",
+                    "UTIL_DEVICE_ID": "261017361 D 239700100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002040B",
+                    "UTIL_DEVICE_ID": "261014503 D 727352100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002041F",
+                    "UTIL_DEVICE_ID": "260630879 D 706452100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020433",
+                    "UTIL_DEVICE_ID": "260617690 D 829352100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020447",
+                    "UTIL_DEVICE_ID": "260282154 D 864614000 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F7",
+                    "UTIL_DEVICE_ID": "260633699 D 705452100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003040B",
+                    "UTIL_DEVICE_ID": "260630884 D 717452100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F7",
+                    "UTIL_DEVICE_ID": "261166931 D 467253100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001040B",
+                    "UTIL_DEVICE_ID": "260632728 D 725452100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001041F",
+                    "UTIL_DEVICE_ID": "260625327 D 487080100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010433",
+                    "UTIL_DEVICE_ID": "260625507 D 279376100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010447",
+                    "UTIL_DEVICE_ID": "261164169 D 613597100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F7",
+                    "UTIL_DEVICE_ID": "260630834 D 685452100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000000F",
+                    "UTIL_DEVICE_ID": "260620275 D 27080100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F7",
+                    "UTIL_DEVICE_ID": "260619193 D 969376100 0002 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000040B",
+                    "UTIL_DEVICE_ID": "261170253 D 457056100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000041F",
+                    "UTIL_DEVICE_ID": "260624921 D 202080100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000433",
+                    "UTIL_DEVICE_ID": "261166761 D 709597100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000447",
+                    "UTIL_DEVICE_ID": "260623906 D 561785100 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001000F",
+                    "UTIL_DEVICE_ID": "259971195 D 747354200 0001 S",
+                    "BILLING_CYCLE_NUM": "14"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030420",
+                    "UTIL_DEVICE_ID": "261014532 D 777352100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000448",
+                    "UTIL_DEVICE_ID": "260624198 D 61022100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030448",
+                    "UTIL_DEVICE_ID": "260620200 D 412080100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002040C",
+                    "UTIL_DEVICE_ID": "261013288 D 734352100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020420",
+                    "UTIL_DEVICE_ID": "260624371 D 43493200 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020434",
+                    "UTIL_DEVICE_ID": "260618150 D 157663200 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020448",
+                    "UTIL_DEVICE_ID": "261011546 D 900602200 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F8",
+                    "UTIL_DEVICE_ID": "260630887 D 714452100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003040C",
+                    "UTIL_DEVICE_ID": "260624349 D 60493200 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010010",
+                    "UTIL_DEVICE_ID": "260630826 D 720452100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F8",
+                    "UTIL_DEVICE_ID": "260625796 D 134911100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001040C",
+                    "UTIL_DEVICE_ID": "260624342 D 746354200 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010420",
+                    "UTIL_DEVICE_ID": "260618631 D 549600100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010434",
+                    "UTIL_DEVICE_ID": "261162596 D 699235509 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010448",
+                    "UTIL_DEVICE_ID": "261164604 D 614597100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F8",
+                    "UTIL_DEVICE_ID": "260625708 D 693483000 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F8",
+                    "UTIL_DEVICE_ID": "261170254 D 458056100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000040C",
+                    "UTIL_DEVICE_ID": "261164109 D 855755100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000420",
+                    "UTIL_DEVICE_ID": "260633701 D 189080100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000434",
+                    "UTIL_DEVICE_ID": "261014548 D 757352100 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030434",
+                    "UTIL_DEVICE_ID": "261012624 D 356265000 0001 S",
+                    "BILLING_CYCLE_NUM": "15"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030421",
+                    "UTIL_DEVICE_ID": "260624713 D 801483000 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000449",
+                    "UTIL_DEVICE_ID": "260619107 D 62848000 0003 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030449",
+                    "UTIL_DEVICE_ID": "261016553 D 91700100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002040D",
+                    "UTIL_DEVICE_ID": "259970955 D 739354200 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020421",
+                    "UTIL_DEVICE_ID": "261016512 D 587600100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020435",
+                    "UTIL_DEVICE_ID": "260619959 D 150202999 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020449",
+                    "UTIL_DEVICE_ID": "261011452 D 930785064 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F9",
+                    "UTIL_DEVICE_ID": "260623935 D 798911100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003040D",
+                    "UTIL_DEVICE_ID": "260623962 D 77911100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010011",
+                    "UTIL_DEVICE_ID": "261011773 D 658452100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F9",
+                    "UTIL_DEVICE_ID": "260625754 D 233911100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001040D",
+                    "UTIL_DEVICE_ID": "260632730 D 729452100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010421",
+                    "UTIL_DEVICE_ID": "261013886 D 572600100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010435",
+                    "UTIL_DEVICE_ID": "260630833 D 686452100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010449",
+                    "UTIL_DEVICE_ID": "261011482 D 556882200 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F9",
+                    "UTIL_DEVICE_ID": "260630889 D 811452100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000011",
+                    "UTIL_DEVICE_ID": "260620274 D 32080100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F9",
+                    "UTIL_DEVICE_ID": "261170288 D 413056100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000040D",
+                    "UTIL_DEVICE_ID": "260617604 D 146080100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000421",
+                    "UTIL_DEVICE_ID": "260618154 D 751354200 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000435",
+                    "UTIL_DEVICE_ID": "261166763 D 710597100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030435",
+                    "UTIL_DEVICE_ID": "260625301 D 489080100 0001 S",
+                    "BILLING_CYCLE_NUM": "16"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030422",
+                    "UTIL_DEVICE_ID": "260633737 D 501452100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000044A",
+                    "UTIL_DEVICE_ID": "260624061 D 66500288 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003044A",
+                    "UTIL_DEVICE_ID": "260618633 D 550600100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002040E",
+                    "UTIL_DEVICE_ID": "261014558 D 744352100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020422",
+                    "UTIL_DEVICE_ID": "261164578 D 148808000 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020436",
+                    "UTIL_DEVICE_ID": "261014509 D 805352100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002044A",
+                    "UTIL_DEVICE_ID": "260649743 D 260044180 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303FA",
+                    "UTIL_DEVICE_ID": "261014545 D 793352100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003040E",
+                    "UTIL_DEVICE_ID": "260624348 D 58493200 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010012",
+                    "UTIL_DEVICE_ID": "260618156 D 750354200 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103FA",
+                    "UTIL_DEVICE_ID": "261013286 D 732352100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001040E",
+                    "UTIL_DEVICE_ID": "261014854 D 756483000 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010422",
+                    "UTIL_DEVICE_ID": "261017410 D 585600100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010436",
+                    "UTIL_DEVICE_ID": "260282155 D 865614000 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001044A",
+                    "UTIL_DEVICE_ID": "260630867 D 799452100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203FA",
+                    "UTIL_DEVICE_ID": "261016849 D 108017130 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000012",
+                    "UTIL_DEVICE_ID": "260618133 D 38080100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003FA",
+                    "UTIL_DEVICE_ID": "261163405 D 417056100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000040E",
+                    "UTIL_DEVICE_ID": "260624939 D 205080100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000422",
+                    "UTIL_DEVICE_ID": "260624971 D 127080100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000436",
+                    "UTIL_DEVICE_ID": "261166686 D 711597100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030436",
+                    "UTIL_DEVICE_ID": "260625318 D 460080100 0001 S",
+                    "BILLING_CYCLE_NUM": "17"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030423",
+                    "UTIL_DEVICE_ID": "261014537 D 760352100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000044B",
+                    "UTIL_DEVICE_ID": "260624138 D 74022100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003044B",
+                    "UTIL_DEVICE_ID": "260620201 D 423080100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002040F",
+                    "UTIL_DEVICE_ID": "261013485 D 750452100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020423",
+                    "UTIL_DEVICE_ID": "260630891 D 802452100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020437",
+                    "UTIL_DEVICE_ID": "260268360 D 150755100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002044B",
+                    "UTIL_DEVICE_ID": "261169215 D 682684000 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303FB",
+                    "UTIL_DEVICE_ID": "260632633 D 737452100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003040F",
+                    "UTIL_DEVICE_ID": "261017354 D 832352100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010013",
+                    "UTIL_DEVICE_ID": "260630824 D 721452100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103FB",
+                    "UTIL_DEVICE_ID": "261013904 D 535600100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001040F",
+                    "UTIL_DEVICE_ID": "260633132 D 761629863 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010423",
+                    "UTIL_DEVICE_ID": "261016593 D 630265000 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010437",
+                    "UTIL_DEVICE_ID": "261011447 D 374974100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001044B",
+                    "UTIL_DEVICE_ID": "260625706 D 828483000 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203FB",
+                    "UTIL_DEVICE_ID": "260624692 D 455483000 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000013",
+                    "UTIL_DEVICE_ID": "260618069 D 40080100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003FB",
+                    "UTIL_DEVICE_ID": "261013512 D 778452100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000040F",
+                    "UTIL_DEVICE_ID": "260630923 D 719452100 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000423",
+                    "UTIL_DEVICE_ID": "258757161 D 830483000 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000437",
+                    "UTIL_DEVICE_ID": "262109710 D 224180921 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030437",
+                    "UTIL_DEVICE_ID": "261012622 D 686265000 0001 S",
+                    "BILLING_CYCLE_NUM": "18"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030424",
+                    "UTIL_DEVICE_ID": "260632660 D 708452100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000044C",
+                    "UTIL_DEVICE_ID": "260624044 D 81022100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003044C",
+                    "UTIL_DEVICE_ID": "260623969 D 88911100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203FC",
+                    "UTIL_DEVICE_ID": "260620096 D 939561200 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020410",
+                    "UTIL_DEVICE_ID": "260630836 D 755452100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020424",
+                    "UTIL_DEVICE_ID": "261014506 D 791352100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020438",
+                    "UTIL_DEVICE_ID": "261158829 D 663239000 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002044C",
+                    "UTIL_DEVICE_ID": "261011491 D 287654200 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303FC",
+                    "UTIL_DEVICE_ID": "260618147 D 161663200 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030410",
+                    "UTIL_DEVICE_ID": "261013531 D 796452100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010014",
+                    "UTIL_DEVICE_ID": "260630827 D 722452100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103FC",
+                    "UTIL_DEVICE_ID": "260620235 D 403080100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010410",
+                    "UTIL_DEVICE_ID": "260630905 D 772452100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010424",
+                    "UTIL_DEVICE_ID": "261158827 D 684239000 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010438",
+                    "UTIL_DEVICE_ID": "260275426 D 639107100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001044C",
+                    "UTIL_DEVICE_ID": "261166672 D 631934667 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000014",
+                    "UTIL_DEVICE_ID": "260618068 D 43080100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003FC",
+                    "UTIL_DEVICE_ID": "261013482 D 752452100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000410",
+                    "UTIL_DEVICE_ID": "261011777 D 659452100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000424",
+                    "UTIL_DEVICE_ID": "261013186 D 431442017 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000438",
+                    "UTIL_DEVICE_ID": "260617607 D 210080100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030438",
+                    "UTIL_DEVICE_ID": "260650880 D 490080100 0001 S",
+                    "BILLING_CYCLE_NUM": "19"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000003",
+                    "UTIL_DEVICE_ID": "260632429 D 473911100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003FF",
+                    "UTIL_DEVICE_ID": "261170291 D 409056100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000413",
+                    "UTIL_DEVICE_ID": "260624870 D 200080100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000427",
+                    "UTIL_DEVICE_ID": "261166428 D 698597100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000043B",
+                    "UTIL_DEVICE_ID": "260617609 D 211080100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010003",
+                    "UTIL_DEVICE_ID": "260618066 D 47080100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103EB",
+                    "UTIL_DEVICE_ID": "261014556 D 763352100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103FF",
+                    "UTIL_DEVICE_ID": "260620030 D 154506227 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010413",
+                    "UTIL_DEVICE_ID": "261011517 D 68520109 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010427",
+                    "UTIL_DEVICE_ID": "261170313 D 155056100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001043B",
+                    "UTIL_DEVICE_ID": "261011490 D 370974100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203EB",
+                    "UTIL_DEVICE_ID": "260630859 D 677452100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203FF",
+                    "UTIL_DEVICE_ID": "260630913 D 813452100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020413",
+                    "UTIL_DEVICE_ID": "262040533 D 770352100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020427",
+                    "UTIL_DEVICE_ID": "260630853 D 700452100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002043B",
+                    "UTIL_DEVICE_ID": "261170376 D 677576000 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303EB",
+                    "UTIL_DEVICE_ID": "261011460 D 376974100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303FF",
+                    "UTIL_DEVICE_ID": "261017370 D 588600100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030413",
+                    "UTIL_DEVICE_ID": "260618224 D 55493200 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030427",
+                    "UTIL_DEVICE_ID": "261017427 D 814352100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003043B",
+                    "UTIL_DEVICE_ID": "261017372 D 7700100 0001 S",
+                    "BILLING_CYCLE_NUM": "2"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000001",
+                    "UTIL_DEVICE_ID": "259799278 D 315175200 0001 I",
+                    "BILLING_CYCLE_NUM": "20"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000015",
+                    "UTIL_DEVICE_ID": "259799279 D 315175201 0002 I",
+                    "BILLING_CYCLE_NUM": "20"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103FD",
+                    "UTIL_DEVICE_ID": "260619795 D 153994200 0001 I",
+                    "BILLING_CYCLE_NUM": "20"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001042B",
+                    "UTIL_DEVICE_ID": "258319648 D 963035100 0001 I",
+                    "BILLING_CYCLE_NUM": "20"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000425",
+                    "UTIL_DEVICE_ID": "258127765 D 123456789 0003 I",
+                    "BILLING_CYCLE_NUM": "20"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000004",
+                    "UTIL_DEVICE_ID": "262039866 D 324785100 0002 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000400",
+                    "UTIL_DEVICE_ID": "261013513 D 777452100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000414",
+                    "UTIL_DEVICE_ID": "260624940 D 204080100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000428",
+                    "UTIL_DEVICE_ID": "261166408 D 699597100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000043C",
+                    "UTIL_DEVICE_ID": "261164121 D 795755100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010004",
+                    "UTIL_DEVICE_ID": "260620194 D 50080100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103EC",
+                    "UTIL_DEVICE_ID": "260625755 D 237911100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010400",
+                    "UTIL_DEVICE_ID": "261013906 D 536600100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010414",
+                    "UTIL_DEVICE_ID": "261016063 D 327265000 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010428",
+                    "UTIL_DEVICE_ID": "261011745 D 763452100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001043C",
+                    "UTIL_DEVICE_ID": "260630908 D 682452100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203EC",
+                    "UTIL_DEVICE_ID": "260630854 D 687452100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020400",
+                    "UTIL_DEVICE_ID": "261014823 D 941561200 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020414",
+                    "UTIL_DEVICE_ID": "261014467 D 786352100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020428",
+                    "UTIL_DEVICE_ID": "260632632 D 742452100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002043C",
+                    "UTIL_DEVICE_ID": "261166534 D 678576000 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303EC",
+                    "UTIL_DEVICE_ID": "260620934 D 405483000 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030400",
+                    "UTIL_DEVICE_ID": "260618171 D 65493200 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030414",
+                    "UTIL_DEVICE_ID": "260630825 D 713452100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030428",
+                    "UTIL_DEVICE_ID": "261018311 D 351265000 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003043C",
+                    "UTIL_DEVICE_ID": "261017374 D 840352100 0001 S",
+                    "BILLING_CYCLE_NUM": "3"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000005",
+                    "UTIL_DEVICE_ID": "261158786 D 51657000 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003ED",
+                    "UTIL_DEVICE_ID": "261017327 D 807352100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000401",
+                    "UTIL_DEVICE_ID": "261170363 D 448056100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000415",
+                    "UTIL_DEVICE_ID": "261011776 D 664452100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000429",
+                    "UTIL_DEVICE_ID": "261163582 D 41531347 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000043D",
+                    "UTIL_DEVICE_ID": "260620242 D 87080100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010005",
+                    "UTIL_DEVICE_ID": "260649887 D 154135100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103ED",
+                    "UTIL_DEVICE_ID": "261013867 D 994600100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010401",
+                    "UTIL_DEVICE_ID": "261011524 D 377974100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010415",
+                    "UTIL_DEVICE_ID": "261012631 D 354265000 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010429",
+                    "UTIL_DEVICE_ID": "261170361 D 449056100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001043D",
+                    "UTIL_DEVICE_ID": "260630852 D 688452100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203ED",
+                    "UTIL_DEVICE_ID": "260623994 D 727483000 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020401",
+                    "UTIL_DEVICE_ID": "260633739 D 502452100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020415",
+                    "UTIL_DEVICE_ID": "260630863 D 789452100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020429",
+                    "UTIL_DEVICE_ID": "261164579 D 149808000 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002043D",
+                    "UTIL_DEVICE_ID": "261162629 D 680061200 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303ED",
+                    "UTIL_DEVICE_ID": "260625733 D 80583000 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030401",
+                    "UTIL_DEVICE_ID": "261015401 D 332452100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030415",
+                    "UTIL_DEVICE_ID": "261014535 D 758352100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030429",
+                    "UTIL_DEVICE_ID": "260624344 D 738354200 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003043D",
+                    "UTIL_DEVICE_ID": "261017351 D 834352100 0001 S",
+                    "BILLING_CYCLE_NUM": "4"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000006",
+                    "UTIL_DEVICE_ID": "260651584 D 509936985 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003EE",
+                    "UTIL_DEVICE_ID": "261017328 D 808352100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000402",
+                    "UTIL_DEVICE_ID": "261170351 D 443056100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000416",
+                    "UTIL_DEVICE_ID": "260624941 D 198080100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000042A",
+                    "UTIL_DEVICE_ID": "261166409 D 700597100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000043E",
+                    "UTIL_DEVICE_ID": "260617608 D 209080100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010006",
+                    "UTIL_DEVICE_ID": "260620246 D 53080100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103EE",
+                    "UTIL_DEVICE_ID": "261164994 D 43253100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010402",
+                    "UTIL_DEVICE_ID": "261016576 D 51700100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010416",
+                    "UTIL_DEVICE_ID": "261011186 D 377265000 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001042A",
+                    "UTIL_DEVICE_ID": "261170251 D 451056100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001043E",
+                    "UTIL_DEVICE_ID": "260625821 D 235911100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203EE",
+                    "UTIL_DEVICE_ID": "260281235 D 861614000 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020402",
+                    "UTIL_DEVICE_ID": "260630909 D 676452100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020416",
+                    "UTIL_DEVICE_ID": "261013265 D 792352100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002042A",
+                    "UTIL_DEVICE_ID": "261013483 D 751452100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002043E",
+                    "UTIL_DEVICE_ID": "261166496 D 690597100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303EE",
+                    "UTIL_DEVICE_ID": "260651541 D 166483000 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030402",
+                    "UTIL_DEVICE_ID": "261013530 D 795452100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030416",
+                    "UTIL_DEVICE_ID": "260630864 D 798452100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003042A",
+                    "UTIL_DEVICE_ID": "261171229 D 236006000 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003043E",
+                    "UTIL_DEVICE_ID": "261013291 D 747352100 0001 S",
+                    "BILLING_CYCLE_NUM": "5"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000007",
+                    "UTIL_DEVICE_ID": "259472905 D 84340100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003EF",
+                    "UTIL_DEVICE_ID": "260624529 D 488080100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000403",
+                    "UTIL_DEVICE_ID": "261163453 D 419056100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000417",
+                    "UTIL_DEVICE_ID": "260633161 D 887609307 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000042B",
+                    "UTIL_DEVICE_ID": "261166411 D 701597100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000043F",
+                    "UTIL_DEVICE_ID": "261164097 D 793755100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010007",
+                    "UTIL_DEVICE_ID": "261332773 D 187968737 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103EF",
+                    "UTIL_DEVICE_ID": "261014523 D 784352100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010403",
+                    "UTIL_DEVICE_ID": "261014502 D 730352100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010417",
+                    "UTIL_DEVICE_ID": "261170336 D 412056100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001043F",
+                    "UTIL_DEVICE_ID": "260630912 D 809452100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203EF",
+                    "UTIL_DEVICE_ID": "261011753 D 503452100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020403",
+                    "UTIL_DEVICE_ID": "261017421 D 601018100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020417",
+                    "UTIL_DEVICE_ID": "261014543 D 795352100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002042B",
+                    "UTIL_DEVICE_ID": "260619820 D 149994200 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002043F",
+                    "UTIL_DEVICE_ID": "261166498 D 691597100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303EF",
+                    "UTIL_DEVICE_ID": "260618240 D 24417000 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030403",
+                    "UTIL_DEVICE_ID": "260632661 D 707452100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030417",
+                    "UTIL_DEVICE_ID": "261016529 D 234911100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003042B",
+                    "UTIL_DEVICE_ID": "260625298 D 467080100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003043F",
+                    "UTIL_DEVICE_ID": "260625705 D 229911100 0001 S",
+                    "BILLING_CYCLE_NUM": "6"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000008",
+                    "UTIL_DEVICE_ID": "261158702 D 53657000 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F0",
+                    "UTIL_DEVICE_ID": "261170264 D 159056100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000404",
+                    "UTIL_DEVICE_ID": "261164120 D 796755100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000418",
+                    "UTIL_DEVICE_ID": "261018203 D 69253100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000042C",
+                    "UTIL_DEVICE_ID": "261166406 D 702597100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000440",
+                    "UTIL_DEVICE_ID": "261170312 D 425056100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010008",
+                    "UTIL_DEVICE_ID": "262109449 D 432657000 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F0",
+                    "UTIL_DEVICE_ID": "260625794 D 132911100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010404",
+                    "UTIL_DEVICE_ID": "260624958 D 112080100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010418",
+                    "UTIL_DEVICE_ID": "261163430 D 428056100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001042C",
+                    "UTIL_DEVICE_ID": "261011720 D 761452100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010440",
+                    "UTIL_DEVICE_ID": "261169244 D 773684000 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F0",
+                    "UTIL_DEVICE_ID": "260625730 D 723483000 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020404",
+                    "UTIL_DEVICE_ID": "260630866 D 800452100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020418",
+                    "UTIL_DEVICE_ID": "260630890 D 797452100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002042C",
+                    "UTIL_DEVICE_ID": "260630877 D 701452100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020440",
+                    "UTIL_DEVICE_ID": "261013159 D 360911100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F0",
+                    "UTIL_DEVICE_ID": "260618143 D 152663200 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030404",
+                    "UTIL_DEVICE_ID": "261016499 D 194974100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030418",
+                    "UTIL_DEVICE_ID": "260624372 D 53493200 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003042C",
+                    "UTIL_DEVICE_ID": "260625326 D 485080100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030440",
+                    "UTIL_DEVICE_ID": "258585510 D 573600100 0001 S",
+                    "BILLING_CYCLE_NUM": "7"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F1",
+                    "UTIL_DEVICE_ID": "261170353 D 435056100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000405",
+                    "UTIL_DEVICE_ID": "260620237 D 426080100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000419",
+                    "UTIL_DEVICE_ID": "260624900 D 120080100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000042D",
+                    "UTIL_DEVICE_ID": "261166436 D 703597100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000441",
+                    "UTIL_DEVICE_ID": "260624867 D 139080100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010009",
+                    "UTIL_DEVICE_ID": "261889368 D 716974100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F1",
+                    "UTIL_DEVICE_ID": "261016582 D 220700100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010405",
+                    "UTIL_DEVICE_ID": "261011772 D 656452100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010419",
+                    "UTIL_DEVICE_ID": "260620228 D 431080100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001042D",
+                    "UTIL_DEVICE_ID": "261170265 D 154056100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010441",
+                    "UTIL_DEVICE_ID": "261164171 D 610597100 0002 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F1",
+                    "UTIL_DEVICE_ID": "260281236 D 859614000 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020405",
+                    "UTIL_DEVICE_ID": "261012372 D 190701478 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020419",
+                    "UTIL_DEVICE_ID": "260630865 D 801452100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002042D",
+                    "UTIL_DEVICE_ID": "260630926 D 694452100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020441",
+                    "UTIL_DEVICE_ID": "261017429 D 815352100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F1",
+                    "UTIL_DEVICE_ID": "260618172 D 66493200 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030405",
+                    "UTIL_DEVICE_ID": "260624347 D 59493200 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030419",
+                    "UTIL_DEVICE_ID": "260630861 D 790452100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003042D",
+                    "UTIL_DEVICE_ID": "260624369 D 737354200 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030441",
+                    "UTIL_DEVICE_ID": "261017381 D 12700100 0001 S",
+                    "BILLING_CYCLE_NUM": "8"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000000A",
+                    "UTIL_DEVICE_ID": "260630496 D 368714000 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000003F2",
+                    "UTIL_DEVICE_ID": "261170355 D 436056100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000406",
+                    "UTIL_DEVICE_ID": "261011718 D 766452100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000041A",
+                    "UTIL_DEVICE_ID": "260624923 D 124080100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0000042E",
+                    "UTIL_DEVICE_ID": "261166437 D 704597100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00000442",
+                    "UTIL_DEVICE_ID": "260624920 D 206080100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001000A",
+                    "UTIL_DEVICE_ID": "260623629 D 15866204 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000103F2",
+                    "UTIL_DEVICE_ID": "260271321 D 152755100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010406",
+                    "UTIL_DEVICE_ID": "260618155 D 752354200 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001041A",
+                    "UTIL_DEVICE_ID": "261170350 D 438056100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0001042E",
+                    "UTIL_DEVICE_ID": "261170334 D 441056100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00010442",
+                    "UTIL_DEVICE_ID": "260623996 D 750483000 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000203F2",
+                    "UTIL_DEVICE_ID": "260282135 D 833614000 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020406",
+                    "UTIL_DEVICE_ID": "260282178 D 858614000 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002041A",
+                    "UTIL_DEVICE_ID": "262040535 D 802352100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0002042E",
+                    "UTIL_DEVICE_ID": "260618144 D 153663200 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00020442",
+                    "UTIL_DEVICE_ID": "261169245 D 821684000 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF000303F2",
+                    "UTIL_DEVICE_ID": "261011721 D 805452100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030406",
+                    "UTIL_DEVICE_ID": "260624373 D 61493200 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003041A",
+                    "UTIL_DEVICE_ID": "260630878 D 699452100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF0003042E",
+                    "UTIL_DEVICE_ID": "261171231 D 240006000 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                },
+                {
+                    "MAC_ID": "DEADBEEF00030442",
+                    "UTIL_DEVICE_ID": "261017329 D 806352100 0001 S",
+                    "BILLING_CYCLE_NUM": "9"
+                }
+            ]
+        }
+    }
+}

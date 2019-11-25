@@ -1,19 +1,19 @@
 package com.example.demo.domain.outbound;
 
 public class Outpayload {
-    public OutResults result;
+    public OutBillCycleExceptions BillCycleExceptions;
 
-    public Outpayload(){}
+    public Outpayload() {}
 
-    public Outpayload(OutResults result) {
-        this.result = result;
+    public Outpayload(OutBillCycleExceptions billCycleExceptions) {
+        BillCycleExceptions = billCycleExceptions;
     }
 
-    public OutResults getResult() {
-        return result;
+    public OutBillCycleExceptions getBillCycleExceptions() {
+        return BillCycleExceptions;
     }
 
-    public void setResult(OutResults result) {
-        this.result = result;
+    public void setBillCycleExceptions(OutBillCycleExceptions billCycleExceptions) {
+        BillCycleExceptions = billCycleExceptions;
     }
 }
