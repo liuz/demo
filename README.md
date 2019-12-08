@@ -1,4 +1,4 @@
-# Skill Test demo
+# Skills Test demo
 Simple REST request for payload format.
 
 ## Usage
